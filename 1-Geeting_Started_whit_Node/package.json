@@ -1,0 +1,12 @@
+{
+  "name": "node-hero",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js"
+  },
+  "author": "Wesley Chia",
+  "license": "ISC"
+}
